@@ -1,6 +1,6 @@
 {
-  "name": "Musik Gue",
-  "short_name": "Musik Gue",
+  "name": "Musik Player",
+  "short_name": "Musik Player",
   "description": "Aplikasi musik dan lirik dari HP",
   "start_url": "/mp3-/",
   "display": "standalone",
