@@ -1,0 +1,17 @@
+{
+  "name": "Musik Gue",
+  "short_name": "Musik Gue",
+  "description": "Aplikasi musik dan lirik dari HP",
+  "start_url": "/mp3-/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#1db954",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/727/727269.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
