@@ -1,6 +1,6 @@
 {
-  "name": "Musik Player",
-  "short_name": "Musik Player",
+  "name": "Musik Gue",
+  "short_name": "Musik Gue",
   "description": "Aplikasi musik dan lirik dari HP",
   "start_url": "/mp3-/",
   "display": "standalone",
@@ -8,14 +8,14 @@
   "theme_color": "#1db954",
   "icons": [
     {
-      "src": "icon-192.png",
-      "sizes": "192x192",
+      "src": "icon.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icon-512.png",
-      "sizes": "512x512",
+      "src": "icon.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     }
