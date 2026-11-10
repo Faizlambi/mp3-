@@ -5,11 +5,17 @@
 <meta name="theme-color" content="#1db954">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Musik - Player</title>
+ <title>Musik - Player</title>
 <style>
 <script>
 if('serviceWorker' in navigator){ navigator.serviceWorker.register('sw.js'); }
 </script>
+  body {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}                               
 *{margin:0;padding:0;box-sizing:border-box;font-family:Arial,sans-serif}
 body{background:#0f0f0f;color:white;padding:15px;padding-bottom:120px}
 h1{text-align:center;color:#1db954;margin:10px 0;font-size:22px}
